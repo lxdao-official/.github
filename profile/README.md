@@ -47,3 +47,9 @@ More links about LXDAO:
 - Website: <https://marry3.love/>
 - Project Page: <https://lxdao.io/projects/004>
 - Source Code: <https://github.com/marryinweb3>
+
+## Project#006 Donate3
+
+- Website Code: <https://github.com/lxdao-official/donate3-website>
+- Backend Code: <https://github.com/lxdao-official/donate3-backend>
+- Contact code: <https://github.com/lxdao-official/donate3-contract>
