@@ -9,6 +9,9 @@ We LOVE Open Source and Public Goods! Thus most of our projects are open-sourced
 More links about LXDAO:
 [LXDAO Website](https://lxdao.io/) | [LXDAO Twitter](https://twitter.com/LXDAO_Official) | [LXDAO Notion](https://lxdao.notion.site/) | [LXDAO Forum](https://forum.lxdao.io/) | [LXDAO Discord](https://discord.lxdao.io) | [LXDAO Telegram](https://t.me/LXDAO)
 
+[![Join our Discord server!](https://invidget.switchblade.xyz/HtcDdPgJ7D)](http://discord.gg/HtcDdPgJ7D)
+
+
 ## General Repos
 
 - [LXDAO Developer Guide](https://github.com/lxdao-official/LXDAO-Developer-Guide) is for developers.
