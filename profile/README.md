@@ -7,7 +7,7 @@ LXDAO is an R&D-focused DAO in Web3. Our mission: Bringing together buidlers to 
 We LOVE Open Source and Public Goods! Thus most of our projects are open-sourced. Please consider supporting us on [Gitcoin grants](https://gitcoin.co/grants/7239/lxdao)!
 
 More links about LXDAO:
-[LXDAO Website](https://lxdao.io/) | [LXDAO Twitter](https://twitter.com/LXDAO_Official) | [LXDAO Notion](https://lxdao.notion.site/) | [LXDAO Forum](https://forum.lxdao.io/) | [LXDAO Discord](https://discord.lxdao.io) | [LXDAO Telegram](https://t.me/LXDAO)
+[LXDAO Website](https://lxdao.io/) | [LXDAO Twitter](https://twitter.com/LXDAO_Official) | [LXDAO Notion](https://lxdao.notion.site/) | [LXDAO Forum](https://forum.lxdao.io/) | [LXDAO Discord](https://discord.lxdao.io)
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/HtcDdPgJ7D)](http://discord.gg/HtcDdPgJ7D)
 
