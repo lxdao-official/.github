@@ -19,7 +19,7 @@ More links about LXDAO:
 
 ## Projects
 
-* **Project#000 GCLX**: [Website](https://gclx.xyz/) | [Project Page](https://lxdao.io/projects/000) | [Website Code](https://github.com/lxdao-official/gclx-official) | [Contracts](https://github.com/lxdao-official/gclx-contracts) | [Art Engine](https://github.com/lxdao-official/gclx-art-engine) |
+* **Project#000 GCLX**: [Website](https://gclx.xyz/) | [Project Page](https://lxdao.io/projects/000) | [Website Code](https://github.com/lxdao-official/gclx-official) | [Contracts](https://github.com/lxdao-official/gclx-contracts) | [Art Engine](https://github.com/lxdao-official/gclx-art-engine)
 * **Project#001 MyFirstNFT**: [Website](https://myfirstnft.info/) | [Project Page](https://lxdao.io/projects/001) | [Website Code](https://github.com/lxdao-official/myfirstnft-frontend) | [Backend Code](https://github.com/lxdao-official/myfirstnft-backend) | [Contacts](https://github.com/lxdao-official/myfirstnft-contract)
 * **Project#002 MetaPavo**: [Website](https://metapavo.xyz/) | [Project Page](https://lxdao.io/projects/002) | Extension Code: TBA
 * **Project#004 Marry3**: [Website](https://marry3.love/) | [Project Page](https://lxdao.io/projects/004) | [Source Code](https://github.com/marryinweb3)
