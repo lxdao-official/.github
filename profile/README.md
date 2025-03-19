@@ -1,4 +1,4 @@
-<img src="./images/LXDAO.png" />
+<img src="../images/LXDAO.png" />
 
 # Hey, this is LXDAO developer community 👋
 
